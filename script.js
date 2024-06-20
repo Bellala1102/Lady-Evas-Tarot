@@ -9,7 +9,7 @@ const cards = [
   { img: 'https://meee.com.tw/l7foZ5z', name: '正位-女祭司' },
   { img: 'https://meee.com.tw/GZKpa8k', name: '正位-女皇' },
   { img: 'https://meee.com.tw/2xGaf65', name: '正位-皇帝' },
-  { img: 'https://meee.com.tw/A8yYuqe', name: '正位-教皇' },
+  { img: 'https://meee.com.tw/jMccIAR', name: '正位-教皇' },
   { img: 'https://meee.com.tw/rcqJaWX', name: '正位-戀人' },
   { img: 'https://meee.com.tw/uCiACQP', name: '正位-戰車' },
   { img: 'https://meee.com.tw/xyLO9Kw', name: '正位-力量' },
