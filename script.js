@@ -4,11 +4,11 @@ const cardNameDisplay = document.getElementById('card-name');
 
 // 總共44張牌圖片的路徑和名稱
 const cards = [
-  { img: 'images/card1.png', name: '正位-愚者' },
-  { img: 'images/card2.png', name: '正位-魔術師' },
-  { img: 'images/card3.png', name: '正位-女祭司' },
-  { img: 'images/card4.png', name: '正位-女皇' },
-  { img: 'images/card5.png', name: '正位-皇帝' },
+  { img: 'https://meee.com.tw/bWQ0RCu', name: '正位-愚者' },
+  { img: 'https://meee.com.tw/ALN7zvZ', name: '正位-魔術師' },
+  { img: 'https://meee.com.tw/l7foZ5z', name: '正位-女祭司' },
+  { img: 'https://meee.com.tw/GZKpa8k', name: '正位-女皇' },
+  { img: 'https://meee.com.tw/2xGaf65', name: '正位-皇帝' },
   { img: 'images/card6.png', name: '正位-教皇' },
   { img: 'images/card7.png', name: '正位-戀人' },
   { img: 'images/card8.png', name: '正位-戰車' },
